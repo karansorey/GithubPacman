@@ -118,16 +118,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="pacmanremasterd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pacmanremasterd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="smallerpacman" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\smallerpacman.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pacmaneatingxxxx" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pacmaneatingxxxx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="smallerpacman" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\smallerpacman.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="pacman anime" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pacman anime.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pacmanremasterd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pacmanremasterd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pacmanwinhd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pacmanwinhd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pacman really small" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pacman really small.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ghostgameover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ghostgameover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -63,9 +63,29 @@ namespace PacmanRemasterdHHS.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ghostgameover {
+            get {
+                object obj = ResourceManager.GetObject("ghostgameover", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pacman_anime {
             get {
                 object obj = ResourceManager.GetObject("pacman anime", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pacman_really_small {
+            get {
+                object obj = ResourceManager.GetObject("pacman really small", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -86,6 +106,16 @@ namespace PacmanRemasterdHHS.Properties {
         internal static System.Drawing.Bitmap pacmanremasterd {
             get {
                 object obj = ResourceManager.GetObject("pacmanremasterd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pacmanwinhd {
+            get {
+                object obj = ResourceManager.GetObject("pacmanwinhd", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

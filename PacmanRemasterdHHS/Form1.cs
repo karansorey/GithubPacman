@@ -26,7 +26,8 @@ namespace PacmanRemasterdHHS
 
         private void iconButton1_Click(object sender, EventArgs e)
         {
-            
+            var Winformx = new WinForm();
+            Winformx.Show();
         }
 
         private void iconButton2_Click(object sender, EventArgs e)
